@@ -7,3 +7,6 @@ sudo apt upgrade
 
 cp .config/* ~/.config/
 
+mkdir ~/wallpaper
+cp wallpaper ~/
+
