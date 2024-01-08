@@ -5,8 +5,8 @@ sudo apt install feh preload i3 rofi kitty polybar neofetch bottom
 sudo apt update 
 sudo apt upgrade
 
-cp .config/* ~/.config/
+cp -r .config/* ~/.config/
 
 mkdir ~/wallpaper
-cp wallpaper ~/
+cp -r wallpaper ~/
 
