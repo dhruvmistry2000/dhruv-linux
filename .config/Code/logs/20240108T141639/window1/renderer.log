@@ -1,0 +1,4 @@
+2024-01-08 14:16:41.443 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-01-08 14:16:41.500 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/dhruv/.config/i3/config","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-01-08 14:16:41.847 [info] Started local extension host with pid 130356.
+2024-01-08 14:16:44.618 [info] [perf] Render performance baseline is 43ms

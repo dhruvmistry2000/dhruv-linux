@@ -1,0 +1,11 @@
+2024/01/08-12:24:51.376 bae Reusing MANIFEST /home/dhruv/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/08-12:24:51.376 bae Recovering log #26
+2024/01/08-12:24:51.379 bae Reusing old log /home/dhruv/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000026.log 
+2024/01/08-12:24:56.603 bae Level-0 table #32: started
+2024/01/08-12:24:56.607 bae Level-0 table #32: 255347 bytes OK
+2024/01/08-12:24:56.610 bae Delete type=0 #26
+2024/01/08-12:24:56.611 bae Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/08-12:24:57.704 bb9 Compacting 1@1 + 1@2 files
+2024/01/08-12:24:57.714 bb9 Generated table #33@1: 468 keys, 76469 bytes
+2024/01/08-12:24:57.714 bb9 Compacted 1@1 + 1@2 files => 76469 bytes
+2024/01/08-12:24:57.716 bb9 compacted to: files[ 0 0 1 0 0 0 0 ]

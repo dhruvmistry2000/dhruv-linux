@@ -1,0 +1,355 @@
+{
+   "checksum": "257ba6af290c2ac97e9acd95c9edb7b7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13284208035829474",
+               "date_last_used": "13312706277099227",
+               "guid": "de20261e-4d21-4cde-b173-2b0d1bddeaf2",
+               "id": "6",
+               "name": "Absolute Power | TopCartoons",
+               "type": "url",
+               "url": "https://www.topcartoons.tv/cartoon/absolute-power-2/"
+            }, {
+               "date_added": "13335447028244093",
+               "date_last_used": "13341257314824368",
+               "guid": "7d5f4288-61b0-49d4-8dde-c92c7eeec847",
+               "id": "7",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How To Backup Your Entire Linux System Using Rsync - OSTechNix",
+               "type": "url",
+               "url": "https://ostechnix.com/backup-entire-linux-system-using-rsync/"
+            }, {
+               "date_added": "13335689176366942",
+               "date_last_used": "13346445958597361",
+               "guid": "b331f6ed-fc40-4db7-9dad-fccbc0fa6ea2",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "10 Must-Read Free Linux eBooks for Beginners and Admins",
+               "type": "url",
+               "url": "https://www.tecmint.com/linux-books/"
+            }, {
+               "date_added": "13337341931072443",
+               "date_last_used": "0",
+               "guid": "ddb4f627-09a3-4f73-a3fc-779182daaf9d",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GTU PMMS | Login",
+               "type": "url",
+               "url": "http://pmms.gtu.ac.in/GTULoginPage"
+            }, {
+               "date_added": "13337781159724337",
+               "date_last_used": "0",
+               "guid": "6aa2901f-9009-49e5-895f-977f9f046654",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Install or Upgrade To Latest Linux Kernel on Ubuntu 22.04",
+               "type": "url",
+               "url": "https://linuxhint.com/install-upgrade-latest-kernel-ubuntu-22-04/"
+            }, {
+               "date_added": "13347217700062607",
+               "date_last_used": "0",
+               "guid": "02a6dd11-f24e-4e9b-9799-dbb53aa869f2",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How Do I Properly Install KVM on Linux (2023)",
+               "type": "url",
+               "url": "https://sysguides.com/install-kvm-on-linux/"
+            }, {
+               "date_added": "13347304150902464",
+               "date_last_used": "0",
+               "guid": "c089ed45-3559-47c9-8c31-3f9358379ee3",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - rishiloyola/Awesome-GRE-Materials: A curated list of materials to prepare for the GRE.",
+               "type": "url",
+               "url": "https://github.com/rishiloyola/Awesome-GRE-Materials"
+            }, {
+               "date_added": "13347374873385585",
+               "date_last_used": "0",
+               "guid": "1cb3ee28-f165-41b0-8e7d-f6b3e00d468d",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "LONG DRIVE Bollywood Mix - Arijit Singh | Full Album | 2 Hour Nonstop | Apna Bana Le, Zaalima & More - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8-E1LbChJ88"
+            }, {
+               "date_added": "13348920022714647",
+               "date_last_used": "0",
+               "guid": "2f846798-9089-4c09-852e-a7487ce669d9",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Console Home | Console Home | us-east-1",
+               "type": "url",
+               "url": "https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1"
+            } ],
+            "date_added": "13290854701520326",
+            "date_last_used": "0",
+            "date_modified": "13348920022714647",
+            "guid": "c2038649-0976-40fe-abaf-651640edbda2",
+            "id": "5",
+            "name": "DHRUV",
+            "type": "folder"
+         }, {
+            "date_added": "13315141378395075",
+            "date_last_used": "13346918155390587",
+            "guid": "b378a786-af68-47dc-b0b8-5b12a22a0997",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Study Material | Darshan University, Rajkot",
+            "type": "url",
+            "url": "https://darshan.ac.in/gtu-study-material"
+         }, {
+            "date_added": "13317367806594027",
+            "date_last_used": "13348313546230561",
+            "guid": "1bed6191-ac1f-436c-9c1d-de86c46227b6",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JIO",
+            "type": "url",
+            "url": "http://192.168.29.1/"
+         }, {
+            "date_added": "13349012541840662",
+            "date_last_used": "13349165197505597",
+            "guid": "861844d9-5d87-4d5d-abd0-af6243aa1b1a",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AWS Complete Tutorial 2023 | Learn Amazon Web Services from Scratch | Cloud Computing | @SCALER ​ - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=B8i49C8fC3E&list=WL&index=14&t=29517s"
+         } ],
+         "date_added": "13349099759072633",
+         "date_last_used": "0",
+         "date_modified": "13349012541840662",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13343936749070544",
+            "date_last_used": "13344161005522802",
+            "guid": "36f1698f-3816-4be5-8f69-b4d8ba6918f9",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - JaKooLit/Debian-Hyprland: A Hyprland installer for Debian 13 Trixie and Debian SID (unstable) and Ubuntu 23.10 Mantic Minotaur",
+            "type": "url",
+            "url": "https://github.com/JaKooLit/Debian-Hyprland"
+         }, {
+            "date_added": "13341140404629126",
+            "date_last_used": "0",
+            "guid": "bd10fb2f-9bad-410b-bee2-1164cf1f21f5",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "3 Ways to Connect to WiFi from the Command Line on Debian",
+            "type": "url",
+            "url": "https://linuxhint.com/3-ways-to-connect-to-wifi-from-the-command-line-on-debian/"
+         }, {
+            "date_added": "13341353416316089",
+            "date_last_used": "0",
+            "guid": "f1ad3b6a-1de6-412f-a12f-6de118d0281d",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Connect to a Bluetooth device from command line in Ubuntu Linux | Simple IT 🤘 Rocks",
+            "type": "url",
+            "url": "https://simpleit.rocks/linux/shell/connect-to-bluetooth-from-cli/"
+         }, {
+            "date_added": "13341431384469006",
+            "date_last_used": "13342370084592258",
+            "guid": "54a70928-c8a4-4a27-92d0-890b394ba14b",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - Bearbobs/glorious-awesome-debian: Awesome Dot files",
+            "type": "url",
+            "url": "https://github.com/Bearbobs/glorious-awesome-debian"
+         }, {
+            "date_added": "13343739310181407",
+            "date_last_used": "0",
+            "guid": "a26e2240-3f7b-41a0-8b3a-310f087d384c",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "i3 window manager setup on Debian Bullseye - The Curly Braces",
+            "type": "url",
+            "url": "https://blog.thecurlybraces.com/2021/07/i3-window-manager-setup-on-debian-bullseye/"
+         }, {
+            "date_added": "13345192881972351",
+            "date_last_used": "0",
+            "guid": "c929a73a-837c-484a-aae0-def26656380e",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dhruv Mistry – Internship · Resume.io",
+            "type": "url",
+            "url": "https://resume.io/r/lEjmho894"
+         }, {
+            "date_added": "13345195398777336",
+            "date_last_used": "0",
+            "guid": "2942bdc3-d801-4f09-be61-1e5b52733fb5",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Resume editor",
+            "type": "url",
+            "url": "https://app.resumegiants.com/editor/resume/bfc1a7d9-9f57-45fb-8dd8-85ad9bddb91a/finish"
+         } ],
+         "date_added": "13349099759072638",
+         "date_last_used": "0",
+         "date_modified": "13345195398777336",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13189359788289775",
+            "date_last_used": "0",
+            "guid": "74f48199-7b47-4142-baf2-214c9a01d4d4",
+            "id": "25",
+            "meta_info": {
+               "last_visited": "13199523963695870"
+            },
+            "name": "Movies – Page 2 – Reqzone.com",
+            "type": "url",
+            "url": "http://reqfilm.com/movies/page/2/"
+         }, {
+            "date_added": "13192728064472035",
+            "date_last_used": "0",
+            "guid": "9671d74c-1950-4095-bd73-7880175a1443",
+            "id": "26",
+            "meta_info": {
+               "last_visited": "13201518328829418"
+            },
+            "name": "Flirting Quotes, Sayings, Pick Up Lines (360+ quotes) - CoolNSmart",
+            "type": "url",
+            "url": "https://www.coolnsmart.com/flirting_quotes/"
+         }, {
+            "date_added": "13200332943327057",
+            "date_last_used": "0",
+            "guid": "0fa6935e-3559-4bde-8bd1-8878670676e3",
+            "id": "27",
+            "meta_info": {
+               "last_visited": "13200396428096745"
+            },
+            "name": "Top 10 Free Movie Download Websites and Fully Legal 2019",
+            "type": "url",
+            "url": "https://www.infomance.com/top-10-free-movie-download-websites/"
+         }, {
+            "date_added": "13215522588374379",
+            "date_last_used": "0",
+            "guid": "dac1faab-911f-41b1-9f6d-6e9bdba05619",
+            "id": "28",
+            "name": "9 Captivating German TV Shows to Electrify Your Language Learning | FluentU German",
+            "type": "url",
+            "url": "https://www.fluentu.com/blog/german/german-tv-shows/"
+         }, {
+            "date_added": "13261245134951250",
+            "date_last_used": "0",
+            "guid": "230a6d68-57b8-4b9f-aa3b-0e677df3ab54",
+            "id": "29",
+            "name": "Index of /ftpdata/TV-Show/English/Game Of Thrones/",
+            "type": "url",
+            "url": "http://103.91.144.230/ftpdata/TV-Show/English/Game%20Of%20Thrones/"
+         }, {
+            "date_added": "13280355668258995",
+            "date_last_used": "0",
+            "guid": "e8af6888-3a49-4de6-9409-1fa3a9acd2de",
+            "id": "30",
+            "name": "Apple Of Your Eye - 12 Words and Phrases for Romantic Relationships | Merriam-Webster",
+            "type": "url",
+            "url": "https://www.merriam-webster.com/words-at-play/origins-of-words-on-love-romantic-relationships/apple-of-ones-eye"
+         }, {
+            "date_added": "13286132157050198",
+            "date_last_used": "0",
+            "guid": "5c271424-9731-484a-a988-4c287aac7ceb",
+            "id": "31",
+            "name": "ShareDrop",
+            "type": "url",
+            "url": "https://www.sharedrop.io/rooms/af5b7d2d-8283-4f08-8bf9-136bb31a68db"
+         }, {
+            "date_added": "13291659989994180",
+            "date_last_used": "0",
+            "guid": "d113daa6-ae15-4a0d-b437-18008ba8a916",
+            "id": "32",
+            "name": "Osi.Ig – Information Gathering Instagram Tool in Kali Linux - GeeksforGeeks",
+            "type": "url",
+            "url": "https://www.google.com/amp/s/www.geeksforgeeks.org/osi-ig-information-gathering-instagram-tool-in-kali-linux/amp/"
+         }, {
+            "date_added": "13301032915002710",
+            "date_last_used": "0",
+            "guid": "f4a9e1b9-b5d6-45fd-a172-a99f9aca0afe",
+            "id": "33",
+            "name": "[SEM 4] Computer Engineering GTU Paper Solution | GTU Medium",
+            "type": "url",
+            "url": "https://gtumedium.blogspot.com/2022/06/sem-4-computer-engineering-gtu-paper.html"
+         }, {
+            "date_added": "13318601523422951",
+            "date_last_used": "0",
+            "guid": "514bf272-8b82-486e-b9ea-f990e5682486",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "jiotv.cf",
+            "type": "url",
+            "url": "https://jiotv.cf/"
+         }, {
+            "date_added": "13346778941377135",
+            "date_last_used": "13348929543156290",
+            "guid": "02110005-98dc-4553-aedf-d19cef91dbb1",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Day-0 | Course Details | Free AWS Zero to Hero Course for DevOps Engineers #devops #aws #interview - YouTube",
+            "type": "url",
+            "url": "https://m.youtube.com/watch?v=GkKNxyLp_V0&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&pp=iAQB"
+         } ],
+         "date_added": "13349099759072639",
+         "date_last_used": "0",
+         "date_modified": "13346778941377135",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cq8BCo4BCIiBAhKHASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCdZHG3FoDgYAEdZHG3FoDgYAKR9FHXFoDgYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJACNPa2gOBgARACNPa2gOBgAplUUbcWgOBgAwgMa82obNgwO6AQIIARIAKhg3eEJDQ3NmeHIyR1diOWdrSko3TWJRPT1IAxLuAQggEukBChxnSWp5Y0dkTTE0SUFUcGpVQktEa0FreUxRMXM9EmZaOkFEcXRBWngwb1YxRk1TZkNOV1FxK2Z6T210K2VvU1pHWU1VdGx4bUV5dUxhMk1kQ1IybE5wVFdqdUVxRE1oNll6QTgvNGpYR3ZpeGI4RWdWMzNwZzRFbXpYRlZIN2hTcHl3PT0YACAAKAAwz+uv08rrggM469fWn/gvQOvX1p/4L0oceFRKeS9kaVlFV1RFdXlveE5lQVBjQmNKRUxvPVohIh////s2Uk9jb3A5bHNFSjcvWVVVZTJyTlhXSTl4aUk9ZfglxwgS7gEIIhLpAQocaHBlWUo4Wm92QjJWRy82SW0ycW80cXhVSjNjPRJmWjpBRHF0QVp4MG9WMUZNU2ZDTldRcStmek9tdCtleHA4TlRmYUpVYkRpdmh2WFl2b2daa0UycHJXVHF2endQU0YxNDZvOCs0dnM5QW1RSTltVGRIUW9mb0k2em92K3NLc2J0Zz09GAAgACgAMKnhnd6j8P4COOCxs87cMEDgsbPO3DBKHDRTNDVOdE5nU1doVUwzVzh1ZjRFdCt1ODhsQT1aISIf////eGdTNDd4Rjh4ZE5PVkVHdU1ic2hTa2Jlekw0PWV+fgP1Eq0CCBoSqAIKHFZpc2ZBVGVtSkNuYnpZWkh3OUJHT2pQS0RUND0SpgFaOkFEcXRBWnd4RElqYUFqUUJVKzlHdzE3dXduK1ZMeU9YQVl5WFZRdUVEYmlNbThmbERaRzhwOFQya1JjcWlLOUZBdUwwendDUmF4WDJMZkgyL0JWTmFjaXFBeUFaVXFNODRERzRQZ3RsL0RoaWlCS1RHdStrcWNyUjVGaXd1Q0Exb1lYMEFjdDRQR0dTQXBWQVM5K0w0ekhaQkRpL2srZ3ZZQT09GAAgACgAMN/juaCrrPYCONvqlsPXLkDb6pbD1y5KHFFQUDNpTW5mWm5nMlljdFB2UkZ1N2NhVVBpRT1aHyIdumhncVdlY1NpdVd4Uk5Xb1c5QlgwZjlPNDhydz1lABb7/hKtAggbEqgCChw1ZGJuK1JpL3dlRGxsZ1BWRnRvUFlKYTFNQ0k9EqYBWjpBRHF0QVp3eERJamFBalFCVSs5R3cxN3V3bitWTHlPWEFZeVhWUXVFRGJpTW04ZmxEVG5GOHYzYnFYN29YUnYzd0pHSE0rd0hkKzNwRVdCYWp5OTNxeE02QS8wdS9jQm44MkpvWGxOQkdxclBlRVVTUEpYaUt3WUlDb0ttdDI4Z2VUSkZhT3FTMHNZVnJhV3dMTkxJNm9jVDdMSDJSdnpDYlE9PRgAIAAoADDf47mgq6z2Ajjb6pbD1y5A2+qWw9cuShxoV3MrV1lxU3g4MDk4QTczOFNJTnVoQWsxa0k9Wh8iHf4rZXJHQTFueTdMc0RCNHpRZTBhVXNGa2ZVaUE9ZVVJgAgSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5ZDQ0c3dvRFRwcU9MZkUzcTM5NENxQmRNOU9ORmFTK05sLytUVXlnL3RFb1UrQ0dya0hUSktCU3BxRWNqaVpIeEpWV3FmKzNmaHlrVnJzTExDZmpUaDkvRzVtZz09GAAgACgAMOuCtreTy4MDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7wEIIxLqAQocbWs4amxYTUUxZmhqVU1aa25PWTM5Y0pFc2NFPRJmWjpBRHF0QVp4MG9WMUZNU2ZDTldRcStmek9tdCtlbEM3d2lvTlBBTHdYTjE5RERJUWcrVnVtTTZBYUFadUJsMTl4Mml5azhKTzZLTmg4NGpnZXByMjcwRTFvSVBiUWI3UGVTQT09GAAgACgAMPa5p5qZxoMDOMK/uMrFMUDCv7jKxTFKHG94VlFERmsybHNDZjcvbUtsazYwQlRVejRpVT1aIiIg////vEFURjZ1Ym1TMGxuWWtZbTYyRG1McW5RNWhVYz1lOPk5MxLrAQgTEuYBChxFUVVnL3U2amVBWG1vN240dVgyNVA1M256cWc9EmZaOkFEcXRBWngwb1YxRk1TZkNOV1FxK2Z6T210K2VCRXdDd0NpdndNZFJGejdQQk9OTTRZcTNVS09oeG90cmRSeHVlMnM1SEkwVzFSQm8vQnc0QTg4TGU0bExMbEdRY0FpNkhBPT0YACAAKAAw+6rRssDjgQM4mcPjybAxQJnD48mwMUoceFJsUmxLZFhJOFhQUXFtV0JCd3I0ck56YzZzPVoeIhxQZkI3U3YrZ2wxSUx5aHJGWDFUS1dpdXpQRUU9ZTlgeNcS7gEIHxLpAQoccFdCUjdGWkNGa0N4bm5kcGxZRC9PaC8yNjE0PRJmWjpBRHF0QVp4MG9WMUZNU2ZDTldRcStmek9tdCtlVFNFTURDdXVvU2dldmlZem96SmNWdDVlUGlpb2IvRHNSVWRVWmtmTTREZ0Y0VGRmZEg3S0tpdDJDM244ckVqNVEwN2VkZz09GAAgACgAMN/juaCrrPYCOPrE5tPjL0D6xObT4y9KHGsxUTRPaXdqYjhYRUlBUXQwVTlFdEJJdjBnST1aISIf///3ZE5sVEthUXhvbGw1VkUvc09rU05mcFFrbmVvPWVVACicEq4CCB0SqQIKHGtNMjhYdzdBUi9hYVErZU5ZTWNUV21JRExOOD0SpgFaOkFEcXRBWnd4RElqYUFqUUJVKzlHdzE3dXduK1ZwR3ZEVVBDL0xQTmxkWEpYaHVHMldIZU5vZ1AvT24ycVVNRGN5VGpnaGdjM0lYODBTbFc0RituanR2a0R6VVBlV0NaQjJObkRxN1dHbUNZSERFai9QVmdOWWhaKzRDNUUxbUdwSkoxQitrMmcya1kzVklvWkdRU05vMjYzY2o3cEZMTGFIdz09GAAgACgAMN/juaCrrPYCOOig3/iGL0DooN/4hi9KHEJTVHdiN0NBdG5IK1Q2eEFVVDVCdFVya2RFdz1aICIe//90anRXOGUxblJxY0MrQWlOY0xoUnY5aCtxaUU9ZQAAAAAS7gEIIRLpAQocVUNYY1puMEZmdXB3dS9qZkk2bHRvdmxmYmowPRJmWjpBRHF0QVp4MG9WMUZNU2ZDTldRcStmek9tdCtldStBNSt4SjljL1JoZWFKM1NJQnN6YUUvY1FxMDhML3dpYVlxcjh0MmpxVFVwd1J2VVpIMjZ0QVZaRndpZ2VURDQ0a09rdz09GAAgACgAMNPcxK2c1PgCOLrQhJWbMEC60ISVmzBKHFFwYnN0R0QzQWJLaDc3U2RJbWZBOWkxWUg0ND1aISIf////U1Y0TkROUmxiMjdlSzM4S3JLZVI2V1Mrd3ZBPWX66P8YEq4CCBwSqQIKHEg5RUplandzUmpDZ0VJd2dCeklEYkRvRlM5Yz0SpgFaOkFEcXRBWnd4RElqYUFqUUJVKzlHdzE3dXduK1ZMeU9YQVl5WFZRdUVEYmlNbThmbERZZmpTYTBVc0hhTHhRVmpValVmQUJ1SWZESjdwWUVhY0JwUUNmUDFHeGdXSHhyR2VFTDFGcEpGZW4xKzh5bzZUR08vdVpDRnR2TUVaenJVVm1tZ25COE9SUHdBRUZibE8xNWpVZzhEY054dWVCTi9SUT09GAAgACgAMN/juaCrrPYCONvqlsPXLkDb6pbD1y5KHGI0VWhzd2IwY0FSZ3BjMUxoQ21saVhTU0VuRT1aICIe/+90Y0FZSzdYMDhEY2Mwa3ByK2dtTWdtMG4yYU09Za1thCYS7AEIGBLnAQocWlZlK1JnTGh1b2ZTRWIrZUd3dVN5aXNXMkpnPRJmWjpBRHF0QVp4MG9WMUZNU2ZDTldRcStmek9tdCtlU3RKck5vRXB3VTBSeFVDa3ZacGErdEJnRnozVG5wY2tZOXNQM2llOG9CWWFOaUhWUndUMzllWjJaQitZQlJUQkh1ZDA0QT09GAAgACgAMMSbu7bC2YIDOPncrNe/MUD53KzXvzFKHE4xeVhKRGlqUnkzenVrck9YTXhUeDdHY0N0RT1aHyId/UFvSWV5TnpPN20ySVY5Nmw0RmJUWDAyb0Z6Yz1lsSdPvxLsAQgSEucBChwvdXlmSWx6ZUV3ZHk0dXVTSnBXTHVVNDlBYjA9EmZaOkFEcXRBWngwb1YxRk1TZkNOV1FxK2Z6T210K2VyUk5XUFB2OEpCYzBpeUJTOHhIU25zV3ZYbUd1bVN1azJmN2tKWTBMQitZRHZwR09WU2s1cVlaUUJGSkJrSHQ0ZkFreTJBPT0YACAAKAAw/4rEkPKWgwM4juyW/7oxQI7slv+6MUoccDc2MlVlbGdrYVprZHdWWC9nTWIzb1dzelZRPVofIh0oU2dQQlZGeDV4cUN0KzRhNW5KcEtzajdvS0cwPWXApSi6EsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeTRWVGYyRVVOU3dNcUE5ZUxBU3lnUVpyek0wK2sxVDQrYWtpb1dBd2pvQnltYjc1cm5uK1g3VitVN0l6RU1xTXpvWktsYnFpcDBEUmtPQllmYVlEMkNaWjNBdkE9PRgAIAAoADDrgra3k8uDAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCBcS5wEKHHd2THBQbExybnIxRUsvTUNhbnhaTk1wcHR2VT0SZlo6QURxdEFaeDBvVjFGTVNmQ05XUXErZnpPbXQrZTVXL1B0Mk9uaWp4VzVIUjRDdCtaQXFxQ0U1M1ExOTRJYkRrQ3hDUDQwSTJ5MnNaSEF6MTVjd29KMmVTSVhsZjJwMUtFOUE9PRgAIAAoADDRh6aGudmCAzi0jpPWvzFAtI6T1r8xShxBV1hvVC9obnFkOSthTUJublArN1kzc0Z2elU9Wh8iHforeDBaZEM3c3YzaGlxVG5XNHRwZzRLK1g2K2s9ZRKNBYgS7gEIHhLpAQocajdTdHd0Q3JIR2JTVzFOcC93L0JyRDJPN2lNPRJmWjpBRHF0QVp4MG9WMUZNU2ZDTldRcStmek9tdCtlREdCSzBxTFU5N09PbHAwNVBlTWtFV1RWaklxYStkNUVUS0F6dnFJNUFwSmhWOEpPcXZ1MEk3ZHFzeENYY3VYR1FBUU80QT09GAAgACgAMN/juaCrrPYCOKPSrZHOL0Cj0q2Rzi9KHElWcDlFRW5Ha2Yza0EyUDdFbUkwYjJSQ1pPQT1aISIf///dRTdod2R2eHZCWVo0U1VzWUNUQTRBS0pweWNBPWUP6kq6EvQBCBES7wEKHGh4TE5lVGx6S1k1YUwyemFVbjhGcTdzUlRHWT0SZlo6QURxdEFaeDBvVjFGTVNmQ05XUXErZnpPbXQrZVNLZ094ZlZsWUZLM3lWNG5aNS9ObDRQM2g1NkJmamhSNnpqcFkwdWhSOU01YkpVeXlKQVYvanhKeFFPR0c4cm54UThZQ0E9PRgAIAIoAjCk1KzHk8uDAziQ08DzzTFA78WOnc4xShxGZVFMUlBmTGhMdGJ1SDc4b0xqVWp5RVJvWG89WiciJf////8AAAAE3GhtWEtqR2xReHkxN09YY2RuNStWd0F0cm1XZz1lOPk5MxLzAQgPEu4BChxTUFVOenRPUGN2SFZKU0E5SFhIS0ZXU0lPK2s9EmZaOkFEcXRBWngwb1YxRk1TZkNOV1FxK2Z6T210K2VKQTBHNmlJSUZPZU80d3VRTTJuV0YxMElsYVJNclczVmRsdWY4NnQ0VGRWanIrdlMyM1ZhRWNmNDlmeHRGdmxjWGZ6SDZ3PT0YACACKAIwpNSsx5PLgwM43fK83M8wQO7Fjp3OMUocNWl5YjB4cHplaGxrS3JoLzlZdnljTDdyVmxzPVomIiT/////AAAABHF2ZnVtYkxPZk51MXNqQjM3RDVoNzBIanJpOD1lzgW2jhLvAQgGEuoBChxEYTJCZnJmSFcwbG9vRWIzOUtGOTEyLzFtRXM9EmZaOkFEcXRBWngwb1YxRk1TZkNOV1FxK2Z6T210K2V4SCtma29hRzFjUWYvYm9DSm15TnpNRFpsRkVLcFU1MnhEYWVybyszWVRvdDFvbkdRL2JVVUgrNTBpckhKZlR4RGpwakRBPT0YACAAKAAw3OCc64qk/wI49b+nvtwvQPW/p77cL0ocRWJTMlJUQWFIZ3RmUWRRSzBKZkt2UXdQUGNzPVoiIiD////tVEQ0SWNJampyVHBwMjIwNDVEZVJDVmZBUDJ3PWWipOQuEvQBCAkS7wEKHGlhbHZDUGxNNjYyY0xVNHFIWmFNbVpxZ2xZQT0SZlo6QURxdEFaeDBvVjFGTVNmQ05XUXErZnpPbXQrZU9wMWRCZGlYUXZRQkRKelh6S040cm5EeTJrb1BVVFNZck42cDJFQmNQdTBZZ1ErSWVXSWc1ZDJsWC82VWZZVTBTcUxUL2c9PRgAIAAoADCqycz9+fSAAzjBjMO2ojFAwYzDtqIxShwwNVlINENibzYxc0hVZ3JTZVp5cCs5bEQ2VjA9WiciJf////8AAAAE/VBGeVZFZ2Z0SVBETFBWNWlZbEpaSXp0NjBROD1lMPtK1hL0AQgOEu8BChxnTGJhWGxoejlaWHhZdnJOcmZidVZkNWtkMGc9EmZaOkFEcXRBWngwb1YxRk1TZkNOV1FxK2Z6T210K2VqSWtFelM4d3JqQThCNUYrY0RKMDZJRU8wQXM2YWIwM1FhNFFMRGJneHR4LzNvcnc2dStSTGdsbDFFenNlQWZ2clFRZFNBPT0YACAAKAAwpaX3s7HIgwM4vd2xx80xQL3dscfNMUocY3JLVDNqRHJZOEIxM3BXaEVxcTVRSFUwQkY4PVonIiX/////AAAABftxcmh2a2tmTWdwOUM2Z3lTSXBaYUJ2OTV5blE9Ze5SbioS9AEIDRLvAQocbWRVVEpQT2d6cGVKMXB2Q0JVUjRyRmlVWFlRPRJmWjpBRHF0QVp4MG9WMUZNU2ZDTldRcStmek9tdCtlR3czZXBHemlZQ253UitQVys3ZG9GbjYzWUFjaWJ3bCtrTDQ1NVdmR3pEZXJlNVo2RGhyNFNPVG4xUXdEYWpBc3FBdEFvUT09GAAgACgAMI/sosz5mIMDOKmmzebHMUCpps3mxzFKHHZZN3hjeEdVOVFyWDB3aWI3YkNxb0xjTHhqMD1aJyIl/////wAAAAX2b3RhRUk3emZIc1BWUmdMZ1ErQmJIem9xVHFVPWU4+TkzEqwCCBkSpwIKHHRHQWtyRjZkc1hUTTltdmNjdVhCZDg4RDRVbz0SpgFaOkFEcXRBWnd4RElqYUFqUUJVKzlHdzE3dXduK1ZMeU9YQVl5WFZRdUVEYmlNbThmbERURVNmR1d5Y2k0U3hFUE9HOEVsOUtrT09IOEliQnMzaHM4NnVZZEdNMFJjVU80c0diU2Z1cDVhdEJjOXpad2dDay9jV253UktiUVpWeFlxWE1hK1YvTlZucEVSOHNGcWpnZ0VmWFVuaWIwT1llMDdBZz09GAAgACgAMN/juaCrrPYCONvqlsPXLkDb6pbD1y5KHGpndlBQWFAxaGRvL2FSR2xlWkVQZUhYL28ycz1aHiIcSlJMb1h0TkNPdlkzM0Q0TEZzNExzVGRDTGlZPWVEpzoqEvQBCAcS7wEKHG1NeTJ1STRnQ1ZpT21zM2RsTDc4Q2FZMzdKYz0SZlo6QURxdEFaeDBvVjFGTVNmQ05XUXErZnpPbXQrZXAwN0FQNTBBN2loa1FHUml4UnNPTE1jTXpjbUxxR05aR3JMUnhJQVZCV0VQYitVMWpIUWsrcWpxUytIb0t4VU5ZS0FkeWc9PRgAIAAoADDPpruA9OaBAziWtPuumzFAlrT7rpsxShxsL0toa0RTUzNma014dGpiWnhzWFQrcGpZbFE9WiciJf////8AAAAE2y8rcnd1aFZvM1p1RE5yNG5LMEFWanJ0QXVWRT1ln8kKMhL0AQgMEu8BChxiRm11a1BEM3J6MkJRT05XQTE0Mml5c25xWjA9EmZaOkFEcXRBWngwb1YxRk1TZkNOV1FxK2Z6T210K2VJU0VLS3ZFSm1leVBXQ0FORnZPVFh5SEZzMmxKbEJlR01nTDc5bTViZzk5c0JtUGhPY0prSVdZUFkzZ1BjL3V5cjNaOE1RPT0YACAAKAAwtt7+kfKWgwM49t7wxMcxQPbe8MTHMUocQU1wK1dqa01ab0VvazhIYnVwR0U4TTlQWjA0PVonIiX/////AAAABe16RVZnRUxObWcrY0Q2dnJ2ejE5QzR1cTh1RlU9ZcClKLoS9AEICxLvAQocRzE4bjIya21Vd1N4OW9pbEJpTi9PZDlsYUE0PRJmWjpBRHF0QVp4MG9WMUZNU2ZDTldRcStmek9tdCtldHRhdkVEcXFJL0cxSWZLaHc4NUltWDdiMHdjWjhHL2J6MERJWUhHcTUrK0lOVGtoWlB4VGUyNnBvamVZZktHelhoeXBBZz09GAAgACgAMK3mnI2wlIMDON6Z1JvHMUDemdSbxzFKHE9kNWNpN3V2cndoWWlFVFQ4QjJ2ZGJjb0djVT1aJyIl/////wAAAAXbdUV4UnVmcVdwQjhGTHBSa0ZSc3oyUkZwamwwPWXs2scZEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeU1EYlpVdFpEd0pSdCtEOWJEWEptZ3ZoSHZWMldIL0pkNTlnamVNN0ZlVzZPOElrL2xlanNnQzlGQzFNbFRDZzZZTEVPMRgAIAAoADDrgra3k8uDAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEvQBCAoS7wEKHDVNQ1VVc25pWDc0bEp0QmdFTzlKNlpucDBlST0SZlo6QURxdEFaeDBvVjFGTVNmQ05XUXErZnpPbXQrZVY3NUYvNGJBenAvaDFDaUxEOWJRNVlzdmZNK2tMUjBhL3hIMStqYWk4eUR3cTY1RXNmN25hdnNzbHdpbGpKSXUrOU1saGc9PRgAIAAoADD/7Oud3oGBAzisvvuHpDFArL77h6QxShxpQWtXdlIvWnlvL0M1M3Y5MjdUVWF5WEVCaDQ9WiciJf////8AAAAFt2lMa29sb203Q1FCem1nblMzcnA2OWw1d0ZuOD1lOWB41xLsAQgVEucBChxYa2I0aVRteGcrS2prOVlOWnVGaGF1bEI3SWM9EmZaOkFEcXRBWngwb1YxRk1TZkNOV1FxK2Z6T210K2VWd2svWGdnMlRpN05ZcHZGcXpVL2hxcVhaQVRMSk9DSWpvSElRckFxaGNEem9WQlNGNW9nVllPb1VCVVBZTGpTZHhoUzZBPT0YACAAKAAw/4rEkPKWgwM4lcPD1LExQJXDw9SxMUocaE1MZVBXWHpCWnVCZDVvc29SbUpUMnlHRElZPVofIh3UMVRaVFhWNHlFSC9SNHR6cXljeERVdVQ2NkpnPWXApSi6EuwBCBYS5wEKHEs1aGxxOXhnK09pZ3VGaUwxbE1UYjJtQUs4ST0SZlo6QURxdEFaeDBvVjFGTVNmQ05XUXErZnpPbXQrZUVTWG01c0tyZ2Iwb0dFS2NSZ0hlcm9EYy9XNUU2NlJjUVdOcVhUSi9RRjdybzVBbXRKbkZrb1NWQ1Vub0c5WTZycWpiY3c9PRgAIAAoADDX5qOJkq+CAzjlkIShujFA5ZCEoboxShx3QTNaSFJaWk5QUTM2SEdlK2VUdVdGbE5TWlk9Wh8iHepSeXlGd1ZpMFpUTTgwdHlvY2VGbm9UWlFmQ289ZWGKM+MS9AEIEBLvAQocM2t3N3MyQ2VRN0hrMFJ6dkdiRXZjOGdjOVpFPRJmWjpBRHF0QVp4MG9WMUZNU2ZDTldRcStmek9tdCtla0Q3V1FDK08yM2IrRW13MFR1blIraFQ5aTFlZ3pXZE9RVzRWZTNzRVpzeVFoc1VUb253am9NSkZHMnJyR0JUT1VKNDl2UT09GAAgAigCMKTUrMeTy4MDOISlj4LYMEDvxY6dzjFKHG1GMnMvd0NaeWpoV3A0T3FjaDJWZXFZQjJrST1aJyIl/////wAAAAS4T0dSUTZUZkFYVk1aMHJVMStMUGtSZmRpeUp3PWXemFspEvQBCAgS7wEKHFQ0emFlT0JteVQwbVcyLzRhRTNoSFIzdENzbz0SZlo6QURxdEFaeDBvVjFGTVNmQ05XUXErZnpPbXQrZUc3R0p4WVV0Q3ZmUEl5UzlzcldiNjNhdWpiZjhORzdMM2NYeWNZaU1yUzViTnovM2x3TEgwT2xMdVVnRm1YeEp2RFhybUE9PRgAIAAoADDYoImruqqDAziv+rainDFAr/q2opwxShxuelZFbEc3UVNoWFdjcXNNTnVjS0RqV21JWVE9WiciJf////8AAAAE+0FZNXJkSFdLQ05PVHRkNmhKZlUxcTFuV0VOZz1lK3RH7BLsAQgUEucBChwvK3ZTajc5UFBzVitpeGxuZzBnK3JoU1FhcE09EmZaOkFEcXRBWngwb1YxRk1TZkNOV1FxK2Z6T210K2VYTU4yVVhBdXdxZTNiallRSURnenZ4UXJHVTVjWVNJVkVJQXJWSzdoOXFXOXdGclpKTFJZUFZoY0E4SnlkUmRrZ1NaSFpnPT0YACAAKAAwzcC39dnpgQM4gd2sr7ExQIHdrK+xMUocd1VpRndBOHlCK0FqV1k1cnJTK3VOVkRZWlFFPVofIh2oL3lHdzQ3YVh4ejZ1ZGtGUFdFRUY3Nml1aFpnPWVF3EpmErACCAUSqwIKHExrVFRlWWNUN09JdVFYelQ4VHpWc0MzVFh0bz0SpgFaOkFEcXRBWnd4RElqYUFqUUJVKzlHdzE3dXduK1ZMeU9YQVl5WFZRdUVEYmlNbThmbERhVzJBbmZoR3BYbHRCNFZtUUdOdHhZNWdjZ1o2VEtEa3pNdytLL0Fja1R6WFBudGR3RFdxdm5FaXNqU21zL0NBWnhqdklEWWZuczlRYVdFTTk0cGR5SmVmWGdZYXRjY2hHbzd2SjM3Q25KQm9SdU9NQT09GAAgACgAMLvS65+rrPYCONvqlsPXLkDb6pbD1y5KHHlwcC9KalZHQTUxVldpSmx5b1hwczVVc1ZKWT1aIiIg////5mpmdGV3YkJaUVNaYVhGMVpBR0IyTlNNd1BBQT1lAAAAADABOAA=",
+   "version": 1
+}

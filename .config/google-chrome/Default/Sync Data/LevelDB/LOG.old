@@ -1,0 +1,9 @@
+2024/01/08-10:56:07.340 e88c Reusing MANIFEST /home/dhruv/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/01/08-10:56:07.340 e88c Recovering log #8
+2024/01/08-10:56:07.342 e88c Reusing old log /home/dhruv/.config/google-chrome/Default/Sync Data/LevelDB/000008.log 
+2024/01/08-10:56:36.576 e88f Level-0 table #12: started
+2024/01/08-10:56:36.581 e88f Level-0 table #12: 105874 bytes OK
+2024/01/08-10:56:36.585 e88f Delete type=0 #8
+2024/01/08-11:28:34.587 e88f Level-0 table #14: started
+2024/01/08-11:28:34.596 e88f Level-0 table #14: 186037 bytes OK
+2024/01/08-11:28:34.599 e88f Delete type=0 #11

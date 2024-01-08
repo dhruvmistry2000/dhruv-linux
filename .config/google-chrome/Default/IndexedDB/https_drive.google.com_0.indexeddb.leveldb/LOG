@@ -1,0 +1,39 @@
+2024/01/08-12:17:05.437 bae Creating DB /home/dhruv/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2024/01/08-12:17:05.452 bae Reusing MANIFEST /home/dhruv/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/08-12:17:15.763 baf Level-0 table #5: started
+2024/01/08-12:17:15.799 baf Level-0 table #5: 1608169 bytes OK
+2024/01/08-12:17:15.802 baf Delete type=0 #3
+2024/01/08-12:17:15.862 baf Level-0 table #7: started
+2024/01/08-12:17:15.886 baf Level-0 table #7: 1790570 bytes OK
+2024/01/08-12:17:15.891 baf Delete type=0 #4
+2024/01/08-12:17:36.548 baf Level-0 table #9: started
+2024/01/08-12:17:36.558 baf Level-0 table #9: 378082 bytes OK
+2024/01/08-12:17:36.561 baf Delete type=0 #6
+2024/01/08-12:17:36.561 baf Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 31148 : 1
+2024/01/08-12:17:36.562 baf Compacting 1@0 + 1@1 files
+2024/01/08-12:17:36.599 baf Generated table #10@0: 13253 keys, 2017840 bytes
+2024/01/08-12:17:36.599 baf Compacted 1@0 + 1@1 files => 2017840 bytes
+2024/01/08-12:17:36.601 baf compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/08-12:17:36.602 baf Delete type=2 #9
+2024/01/08-12:17:36.602 baf Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 31148 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/08-12:18:28.397 baf Level-0 table #12: started
+2024/01/08-12:18:28.399 baf Level-0 table #12: 20122 bytes OK
+2024/01/08-12:18:28.401 baf Delete type=0 #8
+2024/01/08-12:18:28.401 baf Delete type=2 #7
+2024/01/08-12:18:28.402 baf Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x04\x04\x02\x01\x17\x001\x001\x002\x002\x004\x001\x002\x006\x001\x007\x004\x001\x005\x000\x005\x008\x004\x007\x004\x006\x006\x00:\x001' @ 31271 : 1
+2024/01/08-12:18:28.402 baf Compacting 1@0 + 1@1 files
+2024/01/08-12:18:28.429 baf Generated table #13@0: 13507 keys, 2025429 bytes
+2024/01/08-12:18:28.429 baf Compacted 1@0 + 1@1 files => 2025429 bytes
+2024/01/08-12:18:28.432 baf compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/08-12:18:28.432 baf Delete type=2 #12
+2024/01/08-12:18:28.432 baf Delete type=2 #10
+2024/01/08-12:18:28.434 baf Manual compaction at level-0 from '\x00\x04\x04\x02\x01\x17\x001\x001\x002\x002\x004\x001\x002\x006\x001\x007\x004\x001\x005\x000\x005\x008\x004\x007\x004\x006\x006\x00:\x001' @ 31271 : 1 .. (end); will stop at (end)
+2024/01/08-12:18:28.434 baf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x04\x02\x01\x17\x001\x001\x002\x002\x004\x001\x002\x006\x001\x007\x004\x001\x005\x000\x005\x008\x004\x007\x004\x006\x006\x00:\x001' @ 31271 : 1
+2024/01/08-12:18:28.434 baf Compacting 1@1 + 1@2 files
+2024/01/08-12:18:28.480 baf Generated table #14@1: 2199 keys, 2122122 bytes
+2024/01/08-12:18:28.496 baf Generated table #15@1: 4804 keys, 1275638 bytes
+2024/01/08-12:18:28.496 baf Compacted 1@1 + 1@2 files => 3397760 bytes
+2024/01/08-12:18:28.498 baf compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/08-12:18:28.498 baf Delete type=2 #13
+2024/01/08-12:18:28.498 baf Delete type=2 #5
+2024/01/08-12:18:28.499 baf Manual compaction at level-1 from '\x00\x04\x04\x02\x01\x17\x001\x001\x002\x002\x004\x001\x002\x006\x001\x007\x004\x001\x005\x000\x005\x008\x004\x007\x004\x006\x006\x00:\x001' @ 31271 : 1 .. (end); will stop at (end)

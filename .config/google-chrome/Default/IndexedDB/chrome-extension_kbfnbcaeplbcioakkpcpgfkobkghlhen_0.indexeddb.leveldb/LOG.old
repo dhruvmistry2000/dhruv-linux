@@ -1,0 +1,13 @@
+2024/01/08-11:42:01.043 bb9 Reusing MANIFEST /home/dhruv/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/08-11:42:01.044 bb9 Recovering log #26
+2024/01/08-11:42:01.044 bb9 Reusing old log /home/dhruv/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/000026.log 
+2024/01/08-11:42:01.050 bae Level-0 table #31: started
+2024/01/08-11:42:01.051 bae Level-0 table #31: 618 bytes OK
+2024/01/08-11:42:01.053 bae Delete type=0 #26
+2024/01/08-11:42:01.053 bae Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 122 : 1
+2024/01/08-11:42:01.053 bae Compacting 1@0 + 1@1 files
+2024/01/08-11:42:01.055 bae Generated table #32@0: 6 keys, 272 bytes
+2024/01/08-11:42:01.055 bae Compacted 1@0 + 1@1 files => 272 bytes
+2024/01/08-11:42:01.057 bae compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/08-11:42:01.058 bae Delete type=2 #31
+2024/01/08-11:42:01.058 bae Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 122 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,282 @@
+2024-01-08 14:19:53.561 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:23:19.545 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:23:19.771 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:24:06.300 [info] Getting Manifest... pkief.material-icon-theme
+2024-01-08 14:24:06.301 [info] Getting Manifest... adpyke.codesnap
+2024-01-08 14:24:06.301 [info] Getting Manifest... formulahendry.code-runner
+2024-01-08 14:24:06.301 [info] Getting Manifest... esbenp.prettier-vscode
+2024-01-08 14:24:06.301 [info] Getting Manifest... cschlosser.doxdocgen
+2024-01-08 14:24:06.301 [info] Getting Manifest... github.copilot
+2024-01-08 14:24:06.301 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-01-08 14:24:06.301 [info] Getting Manifest... ms-python.python
+2024-01-08 14:24:06.301 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2024-01-08 14:24:06.302 [info] Getting Manifest... equinusocio.vsc-material-theme
+2024-01-08 14:24:06.302 [info] Getting Manifest... ritwickdey.liveserver
+2024-01-08 14:24:06.302 [info] Getting Manifest... twxs.cmake
+2024-01-08 14:24:06.302 [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+2024-01-08 14:24:06.302 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2024-01-08 14:24:06.302 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2024-01-08 14:24:06.302 [info] Getting Manifest... ms-vscode.cpptools
+2024-01-08 14:24:06.302 [info] Getting Manifest... vscjava.vscode-maven
+2024-01-08 14:24:06.302 [info] Getting Manifest... ms-vscode.cpptools-themes
+2024-01-08 14:24:06.302 [info] Getting Manifest... formulahendry.auto-rename-tag
+2024-01-08 14:24:06.303 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2024-01-08 14:24:06.303 [info] Getting Manifest... vscjava.vscode-java-pack
+2024-01-08 14:24:06.303 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2024-01-08 14:24:06.303 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2024-01-08 14:24:06.303 [info] Getting Manifest... vscjava.vscode-java-test
+2024-01-08 14:24:06.303 [info] Getting Manifest... vscjava.vscode-java-dependency
+2024-01-08 14:24:06.303 [info] Getting Manifest... vscjava.vscode-java-debug
+2024-01-08 14:24:06.303 [info] Getting Manifest... github.remotehub
+2024-01-08 14:24:06.303 [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+2024-01-08 14:24:06.304 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2024-01-08 14:24:06.304 [info] Getting Manifest... redhat.java
+2024-01-08 14:24:06.304 [info] Getting Manifest... ms-vscode.remote-repositories
+2024-01-08 14:24:06.591 [info] Installing extension: github.copilot
+2024-01-08 14:24:06.591 [info] Installing the extension without checking dependencies and pack github.copilot
+2024-01-08 14:24:06.592 [info] Installing extension: pkief.material-icon-theme
+2024-01-08 14:24:06.592 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2024-01-08 14:24:06.592 [info] Installing extension: adpyke.codesnap
+2024-01-08 14:24:06.592 [info] Installing the extension without checking dependencies and pack adpyke.codesnap
+2024-01-08 14:24:06.592 [info] Installing extension: formulahendry.code-runner
+2024-01-08 14:24:06.593 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2024-01-08 14:24:06.593 [info] Installing extension: esbenp.prettier-vscode
+2024-01-08 14:24:06.593 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2024-01-08 14:24:06.593 [info] Installing extension: cschlosser.doxdocgen
+2024-01-08 14:24:06.593 [info] Installing the extension without checking dependencies and pack cschlosser.doxdocgen
+2024-01-08 14:24:06.593 [info] Installing extension: ms-python.python
+2024-01-08 14:24:06.594 [info] Installing the extension without checking dependencies and pack ms-python.python
+2024-01-08 14:24:06.594 [info] Installing extension: ms-vscode-remote.remote-wsl
+2024-01-08 14:24:06.594 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-wsl
+2024-01-08 14:24:06.594 [info] Installing extension: equinusocio.vsc-material-theme
+2024-01-08 14:24:06.594 [info] Installing the extension without checking dependencies and pack equinusocio.vsc-material-theme
+2024-01-08 14:24:06.594 [info] Installing extension: ritwickdey.liveserver
+2024-01-08 14:24:06.595 [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+2024-01-08 14:24:06.595 [info] Installing extension: twxs.cmake
+2024-01-08 14:24:06.595 [info] Installing the extension without checking dependencies and pack twxs.cmake
+2024-01-08 14:24:06.595 [info] Installing extension: jeff-hykin.better-cpp-syntax
+2024-01-08 14:24:06.595 [info] Installing the extension without checking dependencies and pack jeff-hykin.better-cpp-syntax
+2024-01-08 14:24:06.596 [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+2024-01-08 14:24:06.596 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh-edit
+2024-01-08 14:24:06.596 [info] Installing extension: visualstudioexptteam.vscodeintellicode
+2024-01-08 14:24:06.596 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+2024-01-08 14:24:06.597 [info] Installing extension: vscjava.vscode-maven
+2024-01-08 14:24:06.597 [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+2024-01-08 14:24:06.597 [info] Installing extension: ms-vscode.cpptools-themes
+2024-01-08 14:24:06.597 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-themes
+2024-01-08 14:24:06.597 [info] Installing extension: formulahendry.auto-rename-tag
+2024-01-08 14:24:06.598 [info] Installing the extension without checking dependencies and pack formulahendry.auto-rename-tag
+2024-01-08 14:24:06.598 [info] Installing extension: ms-vscode.cpptools-extension-pack
+2024-01-08 14:24:06.598 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-extension-pack
+2024-01-08 14:24:06.598 [info] Installing extension: vscjava.vscode-java-pack
+2024-01-08 14:24:06.598 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+2024-01-08 14:24:06.599 [info] Installing extension: dsznajder.es7-react-js-snippets
+2024-01-08 14:24:06.599 [info] Installing the extension without checking dependencies and pack dsznajder.es7-react-js-snippets
+2024-01-08 14:24:06.599 [info] Installing extension: ms-vscode-remote.remote-ssh
+2024-01-08 14:24:06.599 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh
+2024-01-08 14:24:06.599 [info] Installing extension: vscjava.vscode-java-dependency
+2024-01-08 14:24:06.599 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-dependency
+2024-01-08 14:24:06.600 [info] Installing extension: vscjava.vscode-java-debug
+2024-01-08 14:24:06.600 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+2024-01-08 14:24:06.600 [info] Installing extension: github.remotehub
+2024-01-08 14:24:06.600 [info] Installing the extension without checking dependencies and pack github.remotehub
+2024-01-08 14:24:06.600 [info] Installing extension: equinusocio.vsc-material-theme-icons
+2024-01-08 14:24:06.600 [info] Installing the extension without checking dependencies and pack equinusocio.vsc-material-theme-icons
+2024-01-08 14:24:06.601 [info] Installing extension: ms-vscode-remote.remote-containers
+2024-01-08 14:24:06.601 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-containers
+2024-01-08 14:24:06.601 [info] Installing extension: redhat.java
+2024-01-08 14:24:06.601 [info] Installing the extension without checking dependencies and pack redhat.java
+2024-01-08 14:24:06.601 [info] Installing extension: ms-vscode.remote-repositories
+2024-01-08 14:24:06.602 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-repositories
+2024-01-08 14:24:06.602 [info] Installing extension: ms-vscode.cmake-tools
+2024-01-08 14:24:06.602 [info] Installing the extension without checking dependencies and pack ms-vscode.cmake-tools
+2024-01-08 14:24:06.602 [info] Installing extension: ms-vscode.cpptools
+2024-01-08 14:24:06.602 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+2024-01-08 14:24:06.602 [info] Installing extension: vscjava.vscode-java-test
+2024-01-08 14:24:06.603 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-test
+2024-01-08 14:24:11.548 [info] Extension signature is verified: ms-python.python
+2024-01-08 14:24:11.643 [info] Extracting extension completed. ms-python.python
+2024-01-08 14:24:11.778 [info] Extension installed successfully: ms-python.python
+2024-01-08 14:24:11.879 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 14:24:12.098 [info] Extension signature is verified: adpyke.codesnap
+2024-01-08 14:24:12.116 [info] Extracting extension completed. adpyke.codesnap
+2024-01-08 14:24:12.135 [info] Extension installed successfully: adpyke.codesnap
+2024-01-08 14:24:12.208 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 14:24:12.861 [info] Extension signature is verified: cschlosser.doxdocgen
+2024-01-08 14:24:12.876 [info] Extracting extension completed. cschlosser.doxdocgen
+2024-01-08 14:24:12.916 [info] Extension installed successfully: cschlosser.doxdocgen
+2024-01-08 14:24:12.980 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 14:24:13.419 [info] Extension signature is verified: vscjava.vscode-java-dependency
+2024-01-08 14:24:13.434 [info] Extracting extension completed. vscjava.vscode-java-dependency
+2024-01-08 14:24:13.499 [info] Extension installed successfully: vscjava.vscode-java-dependency
+2024-01-08 14:24:13.548 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 14:24:13.658 [info] Extension signature is verified: vscjava.vscode-maven
+2024-01-08 14:24:13.675 [info] Extension signature is verified: pkief.material-icon-theme
+2024-01-08 14:24:13.695 [info] Extracting extension completed. vscjava.vscode-maven
+2024-01-08 14:24:13.716 [info] Extracting extension completed. pkief.material-icon-theme
+2024-01-08 14:24:13.760 [info] Extension installed successfully: vscjava.vscode-maven
+2024-01-08 14:24:13.797 [info] Extension installed successfully: pkief.material-icon-theme
+2024-01-08 14:24:13.799 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 14:24:13.949 [info] Extension signature is verified: twxs.cmake
+2024-01-08 14:24:13.982 [info] Extracting extension completed. twxs.cmake
+2024-01-08 14:24:14.033 [info] Extension installed successfully: twxs.cmake
+2024-01-08 14:24:14.102 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 14:24:14.412 [info] Extension signature is verified: vscjava.vscode-java-pack
+2024-01-08 14:24:14.417 [info] Extracting extension completed. vscjava.vscode-java-pack
+2024-01-08 14:24:14.467 [info] Extension installed successfully: vscjava.vscode-java-pack
+2024-01-08 14:24:14.526 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 14:24:14.600 [info] Extension signature is verified: equinusocio.vsc-material-theme
+2024-01-08 14:24:14.611 [info] Extracting extension completed. equinusocio.vsc-material-theme
+2024-01-08 14:24:14.648 [info] Extension installed successfully: equinusocio.vsc-material-theme
+2024-01-08 14:24:14.716 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 14:24:15.135 [info] Extension signature is verified: vscjava.vscode-java-debug
+2024-01-08 14:24:15.148 [info] Extracting extension completed. vscjava.vscode-java-debug
+2024-01-08 14:24:15.203 [info] Extension installed successfully: vscjava.vscode-java-debug
+2024-01-08 14:24:15.242 [info] Extension signature is verified: ms-vscode.cpptools-themes
+2024-01-08 14:24:15.246 [info] Extracting extension completed. ms-vscode.cpptools-themes
+2024-01-08 14:24:15.260 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 14:24:15.285 [info] Extension installed successfully: ms-vscode.cpptools-themes
+2024-01-08 14:24:15.287 [info] Extension signature is verified: formulahendry.auto-rename-tag
+2024-01-08 14:24:15.326 [info] Extension signature is verified: ms-vscode.cpptools
+2024-01-08 14:24:15.330 [info] Extracting extension completed. formulahendry.auto-rename-tag
+2024-01-08 14:24:15.447 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2024-01-08 14:24:15.449 [info] Extracting extension completed. ms-vscode.cpptools
+2024-01-08 14:24:15.526 [info] Extension signature is verified: visualstudioexptteam.vscodeintellicode
+2024-01-08 14:24:15.550 [info] Extracting extension completed. visualstudioexptteam.vscodeintellicode
+2024-01-08 14:24:15.573 [info] Extension installed successfully: ms-vscode.cpptools
+2024-01-08 14:24:15.669 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+2024-01-08 14:24:15.755 [info] Extension signature is verified: redhat.java
+2024-01-08 14:24:15.777 [info] Extracting extension completed. redhat.java
+2024-01-08 14:24:15.798 [info] Extension signature is verified: esbenp.prettier-vscode
+2024-01-08 14:24:15.813 [info] Extension installed successfully: redhat.java
+2024-01-08 14:24:15.837 [info] Extracting extension completed. esbenp.prettier-vscode
+2024-01-08 14:24:15.876 [info] Extension installed successfully: esbenp.prettier-vscode
+2024-01-08 14:24:15.913 [info] Extension signature is verified: jeff-hykin.better-cpp-syntax
+2024-01-08 14:24:15.921 [info] Extracting extension completed. jeff-hykin.better-cpp-syntax
+2024-01-08 14:24:15.960 [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+2024-01-08 14:24:15.976 [info] Extension signature is verified: ms-vscode.cmake-tools
+2024-01-08 14:24:16.026 [info] Extension signature is verified: github.copilot
+2024-01-08 14:24:16.031 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:24:16.032 [info] Extension signature is verified: formulahendry.code-runner
+2024-01-08 14:24:16.034 [info] Extracting extension completed. ms-vscode.cmake-tools
+2024-01-08 14:24:16.049 [info] Extracting extension completed. github.copilot
+2024-01-08 14:24:16.051 [info] Extracting extension completed. formulahendry.code-runner
+2024-01-08 14:24:16.061 [info] Extension installed successfully: ms-vscode.cmake-tools
+2024-01-08 14:24:16.084 [info] Extension installed successfully: github.copilot
+2024-01-08 14:24:16.103 [info] Extension installed successfully: formulahendry.code-runner
+2024-01-08 14:24:16.111 [info] Extension signature is verified: ms-vscode-remote.remote-ssh
+2024-01-08 14:24:16.113 [info] Extension signature is verified: github.remotehub
+2024-01-08 14:24:16.131 [info] Extracting extension completed. ms-vscode-remote.remote-ssh
+2024-01-08 14:24:16.134 [info] Extracting extension completed. github.remotehub
+2024-01-08 14:24:16.138 [info] Extension signature is verified: ms-vscode.remote-repositories
+2024-01-08 14:24:16.162 [info] Extracting extension completed. ms-vscode.remote-repositories
+2024-01-08 14:24:16.170 [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+2024-01-08 14:24:16.178 [info] Extension signature is verified: dsznajder.es7-react-js-snippets
+2024-01-08 14:24:16.187 [info] Extension installed successfully: github.remotehub
+2024-01-08 14:24:16.194 [info] Extension signature is verified: vscjava.vscode-java-test
+2024-01-08 14:24:16.195 [info] Extracting extension completed. dsznajder.es7-react-js-snippets
+2024-01-08 14:24:16.210 [info] Extension installed successfully: ms-vscode.remote-repositories
+2024-01-08 14:24:16.223 [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+2024-01-08 14:24:16.243 [info] Extension signature is verified: ms-vscode-remote.remote-ssh-edit
+2024-01-08 14:24:16.250 [info] Extracting extension completed. ms-vscode-remote.remote-ssh-edit
+2024-01-08 14:24:16.254 [info] Extension signature is verified: equinusocio.vsc-material-theme-icons
+2024-01-08 14:24:16.263 [info] Extracting extension completed. equinusocio.vsc-material-theme-icons
+2024-01-08 14:24:16.268 [info] Extension signature is verified: ms-vscode-remote.remote-containers
+2024-01-08 14:24:16.269 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+2024-01-08 14:24:16.278 [info] Extension signature is verified: ms-vscode-remote.remote-wsl
+2024-01-08 14:24:16.290 [info] Extension installed successfully: equinusocio.vsc-material-theme-icons
+2024-01-08 14:24:16.293 [info] Extension signature is verified: ritwickdey.liveserver
+2024-01-08 14:24:16.296 [info] Extracting extension completed. ms-vscode-remote.remote-containers
+2024-01-08 14:24:16.305 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2024-01-08 14:24:16.312 [info] Extracting extension completed. ritwickdey.liveserver
+2024-01-08 14:24:16.315 [info] Extension installed successfully: ms-vscode-remote.remote-containers
+2024-01-08 14:24:16.326 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2024-01-08 14:24:16.336 [info] Extension installed successfully: ritwickdey.liveserver
+2024-01-08 14:24:16.362 [info] Extension signature is verified: ms-vscode.cpptools-extension-pack
+2024-01-08 14:24:16.368 [info] Extracting extension completed. ms-vscode.cpptools-extension-pack
+2024-01-08 14:24:16.381 [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+2024-01-08 14:24:16.434 [info] Extracted extension to file:///home/dhruv/.vscode/extensions/vscjava.vscode-java-test-0.40.1: vscjava.vscode-java-test
+2024-01-08 14:24:16.437 [info] Renamed to /home/dhruv/.vscode/extensions/vscjava.vscode-java-test-0.40.1
+2024-01-08 14:24:16.440 [info] Extracting extension completed. vscjava.vscode-java-test
+2024-01-08 14:24:16.460 [info] Extension installed successfully: vscjava.vscode-java-test
+2024-01-08 14:24:23.554 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:24:24.995 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:24:26.465 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:24:41.529 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:24:41.705 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:24:55.616 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:24:56.710 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:24:56.891 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:10.995 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:11.172 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:39.867 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:40.023 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:53.759 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:53.928 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:54.054 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:56.623 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:56.644 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:57.454 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:57.492 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:57.824 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:25:57.855 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:26:01.317 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:26:01.454 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:26:20.286 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:26:20.467 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:26:37.113 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 14:26:37.312 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.

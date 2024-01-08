@@ -1,0 +1,17 @@
+2024-01-08 12:39:49.179 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 12:39:49.366 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 12:39:49.411 [info] Deleted uninstalled extension from disk s-nlf-fh.glassit /home/dhruv/.vscode/extensions/s-nlf-fh.glassit-0.2.6
+2024-01-08 12:39:55.304 [info] Uninstalling extension from the profile: skacekachna.win-opacity@1.1.7 vscode-userdata:/home/dhruv/.vscode/extensions/extensions.json
+2024-01-08 12:39:55.339 [info] Marked extension as uninstalled skacekachna.win-opacity-1.1.7
+2024-01-08 12:39:55.421 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhruv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-08 12:39:55.721 [info] Successfully uninstalled extension from the profile skacekachna.win-opacity@1.1.7 vscode-userdata:/home/dhruv/.vscode/extensions/extensions.json
+2024-01-08 12:40:07.665 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 12:40:08.082 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 12:40:08.400 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-08 12:40:08.762 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.

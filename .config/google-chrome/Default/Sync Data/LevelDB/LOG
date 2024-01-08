@@ -1,0 +1,45 @@
+2024/01/08-11:41:56.202 baf Reusing MANIFEST /home/dhruv/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/01/08-11:41:56.207 baf Recovering log #13
+2024/01/08-11:41:56.208 baf Reusing old log /home/dhruv/.config/google-chrome/Default/Sync Data/LevelDB/000013.log 
+2024/01/08-11:43:03.728 bb9 Level-0 table #17: started
+2024/01/08-11:43:03.733 bb9 Level-0 table #17: 269916 bytes OK
+2024/01/08-11:43:03.736 bb9 Delete type=0 #13
+2024/01/08-11:43:03.736 bb9 Compacting 4@0 + 1@1 files
+2024/01/08-11:43:03.743 bb9 Generated table #18@0: 85 keys, 24046 bytes
+2024/01/08-11:43:03.743 bb9 Compacted 4@0 + 1@1 files => 24046 bytes
+2024/01/08-11:43:03.745 bb9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/08-11:43:03.746 bb9 Delete type=2 #17
+2024/01/08-11:43:03.746 bb9 Delete type=2 #12
+2024/01/08-11:43:03.746 bb9 Delete type=2 #7
+2024/01/08-11:43:03.746 bb9 Delete type=2 #14
+2024/01/08-11:43:03.746 bb9 Delete type=2 #9
+2024/01/08-12:12:29.282 bae Level-0 table #20: started
+2024/01/08-12:12:29.286 bae Level-0 table #20: 168109 bytes OK
+2024/01/08-12:12:29.289 bae Delete type=0 #16
+2024/01/08-12:24:53.288 bb9 Level-0 table #22: started
+2024/01/08-12:24:53.293 bb9 Level-0 table #22: 135018 bytes OK
+2024/01/08-12:24:53.296 bb9 Delete type=0 #19
+2024/01/08-12:30:23.374 baf Level-0 table #24: started
+2024/01/08-12:30:23.382 baf Level-0 table #24: 209974 bytes OK
+2024/01/08-12:30:23.384 baf Delete type=0 #21
+2024/01/08-12:44:47.115 baf Level-0 table #26: started
+2024/01/08-12:44:47.128 baf Level-0 table #26: 93052 bytes OK
+2024/01/08-12:44:47.132 baf Delete type=0 #23
+2024/01/08-12:44:47.133 baf Compacting 4@0 + 1@1 files
+2024/01/08-12:44:47.142 baf Generated table #27@0: 89 keys, 17953 bytes
+2024/01/08-12:44:47.142 baf Compacted 4@0 + 1@1 files => 17953 bytes
+2024/01/08-12:44:47.144 baf compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/08-12:44:47.145 baf Delete type=2 #22
+2024/01/08-12:44:47.145 baf Delete type=2 #18
+2024/01/08-12:44:47.145 baf Delete type=2 #20
+2024/01/08-12:44:47.145 baf Delete type=2 #26
+2024/01/08-12:44:47.146 baf Delete type=2 #24
+2024/01/08-12:53:37.314 baf Level-0 table #29: started
+2024/01/08-12:53:37.323 baf Level-0 table #29: 136002 bytes OK
+2024/01/08-12:53:37.326 baf Delete type=0 #25
+2024/01/08-14:12:17.817 bb9 Level-0 table #31: started
+2024/01/08-14:12:17.832 bb9 Level-0 table #31: 110555 bytes OK
+2024/01/08-14:12:17.844 bb9 Delete type=0 #28
+2024/01/08-14:39:13.351 bae Level-0 table #33: started
+2024/01/08-14:39:13.359 bae Level-0 table #33: 128885 bytes OK
+2024/01/08-14:39:13.362 bae Delete type=0 #30
