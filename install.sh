@@ -14,3 +14,8 @@ cp -r wallpaper ~/
 
 # copying my useful scripts
 cp -r scripts ~/
+
+# Install HAckNerdFont
+mkdir ~/.fonts
+cp Hack.zip ~/.fonts
+unzip Hack.zip
