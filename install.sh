@@ -15,8 +15,15 @@ cp -r wallpaper ~/
 # copying my useful scripts
 cp -r scripts ~/
 
+#mybash
+cd mybash
+./setup.sh
+cd ..
+
 # Install HAckNerdFont
 mkdir ~/.fonts
 cp Hack.zip ~/.fonts
 cd ~/.fonts
 unzip Hack.zip
+
+
