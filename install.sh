@@ -18,4 +18,5 @@ cp -r scripts ~/
 # Install HAckNerdFont
 mkdir ~/.fonts
 cp Hack.zip ~/.fonts
+cd ~/.fonts
 unzip Hack.zip
