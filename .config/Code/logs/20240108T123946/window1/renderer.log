@@ -1,9 +1,0 @@
-2024-01-08 12:39:48.021 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2024-01-08 12:39:48.629 [info] Started local extension host with pid 77465.
-2024-01-08 12:39:51.557 [info] [perf] Render performance baseline is 60ms
-2024-01-08 12:39:57.532 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2024-01-08 12:39:57.873 [info] Started local extension host with pid 77536.
-2024-01-08 12:40:00.647 [info] [perf] Render performance baseline is 73ms
-2024-01-08 12:40:08.624 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
-2024-01-08 12:40:08.851 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2024-01-08 12:40:09.763 [info] Started local extension host with pid 77762.
