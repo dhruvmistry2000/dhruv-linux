@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt install feh preload i3 rofi kitty polybar neofetch
+sudo apt install feh preload i3 rofi kitty polybar neofetch picom
 
 sudo apt update 
 sudo apt upgrade
