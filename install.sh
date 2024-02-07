@@ -20,10 +20,14 @@ cd mybash
 ./setup.sh
 cd ..
 
-# Install HAckNerdFont
+# Install HackNerdFont
 mkdir ~/.fonts
 cp Hack.zip ~/.fonts
 cd ~/.fonts
 unzip Hack.zip
 
+#Starship
+cd ~
+cd dhruv-linux
+mv starship.toml ~/.config/
 
