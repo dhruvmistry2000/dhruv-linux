@@ -20,6 +20,9 @@ cd mybash
 ./setup.sh
 cd ..
 
+# editing source lsit
+cp sources.list /etc/apt/
+
 # Install HackNerdFont
 mkdir ~/.fonts
 cp Hack.zip ~/.fonts
