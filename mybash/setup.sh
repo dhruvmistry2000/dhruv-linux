@@ -5,21 +5,6 @@ RED='\e[31m'
 YELLOW='\e[33m'
 GREEN='\e[32m'
 
-LINUXTOOLBOXDIR="$HOME/linuxtoolbox"
-
-if [[ ! -d "$LINUXTOOLBOXDIR/mybash" ]]; then
-    echo -e "${YELLOW}Cloning mybash repository into: $LINUXTOOLBOXDIR/mybash${RC}"
-    git clone https://github.com/ChrisTitusTech/mybash "$LINUXTOOLBOXDIR/mybash"
-    if [[ $? -eq 0 ]]; then
-        echo -e "${GREEN}Successfully cloned mybash repository${RC}"
-    else
-        echo -e "${RED}Failed to clone mybash repository${RC}"
-        exit 1
-    fi
-fi
-
-cd "$LINUXTOOLBOXDIR/mybash"
-
 command_exists() {
     command -v $1 >/dev/null 2>&1
 }
@@ -97,6 +82,9 @@ installDepend() {
     fi
 }
 
+installStarship() {
+    cp starship.toml ~/.config/starship.toml
+}
 
 installZoxide() {
     if command_exists zoxide; then
@@ -159,6 +147,7 @@ linkConfig() {
 
 checkEnv
 installDepend
+installStarship
 installZoxide
 install_additional_dependencies
 
