@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt install feh preload i3 rofi kitty polybar neofetch picom
+sudo apt install feh preload i3 rofi kitty polybar neofetch picom trash-cli
 
 sudo apt update 
 sudo apt upgrade
@@ -41,5 +41,6 @@ unzip Hack.zip
 cd ~
 cd dhruv-linux
 mv starship.toml ~/.config/
+
 
 
