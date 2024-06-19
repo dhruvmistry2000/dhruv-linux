@@ -23,6 +23,10 @@ cd ..
 # editing source lsit
 cp sources.list /etc/apt/
 
+# Give permission to chrome.sh and execute it
+chmod +x chrome.sh
+./chrome.sh
+
 # Install HackNerdFont
 mkdir ~/.fonts
 cp Hack.zip ~/.fonts
@@ -33,4 +37,5 @@ unzip Hack.zip
 cd ~
 cd dhruv-linux
 mv starship.toml ~/.config/
+
 
