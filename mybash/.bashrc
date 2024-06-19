@@ -87,27 +87,6 @@ export LESS_TERMCAP_so=$'\E[01;44;33m'
 export LESS_TERMCAP_ue=$'\E[0m'
 export LESS_TERMCAP_us=$'\E[01;32m'
 
-#######################################################
-# MACHINE SPECIFIC ALIAS'S
-#######################################################
-
-# Alias's for SSH
-# alias SERVERNAME='ssh YOURWEBSITE.com -l USERNAME -p PORTNUMBERHERE'
-
-
-# Alias's to mount ISO files
-# mount -o loop /home/NAMEOFISO.iso /home/ISOMOUNTDIR/
-# umount /home/NAMEOFISO.iso
-# (Both commands done as root only.)
-
-#######################################################
-# GENERAL ALIAS'S
-#######################################################
-# To temporarily bypass an alias, we precede the command with a \
-# EG: the ls command is aliased, but to use the normal ls command you would type \ls
-
-# Add an "alert" alias for long running commands.  Use like so:
-#   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'")'
 
 # Edit this .bashrc file
