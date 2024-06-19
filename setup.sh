@@ -19,13 +19,13 @@ cd ..
 cp sources.list /etc/apt/
 
 chmod +x installs/chrome.sh
-./chrome.sh
+./installs/chrome.sh
 
 chmod +x installs/brave.sh
-./chrome.sh
+./installs/brave.sh
 
 chmod +x installs/fastfetch.sh
-./chrome.sh
+./installs/fastfetch.sh
 
 mkdir ~/.fonts
 cp Hack.zip ~/.fonts
