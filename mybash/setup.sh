@@ -5,14 +5,7 @@ RED='\e[31m'
 YELLOW='\e[33m'
 GREEN='\e[32m'
 
-# Check if the home directory and linuxtoolbox folder exist, create them if they don't
 LINUXTOOLBOXDIR="$HOME/linuxtoolbox"
-
-if [[ ! -d "$LINUXTOOLBOXDIR" ]]; then
-    echo -e "${YELLOW}Creating linuxtoolbox directory: $LINUXTOOLBOXDIR${RC}"
-    mkdir -p "$LINUXTOOLBOXDIR"
-    echo -e "${GREEN}linuxtoolbox directory created: $LINUXTOOLBOXDIR${RC}"
-fi
 
 if [[ ! -d "$LINUXTOOLBOXDIR/mybash" ]]; then
     echo -e "${YELLOW}Cloning mybash repository into: $LINUXTOOLBOXDIR/mybash${RC}"
@@ -104,23 +97,6 @@ installDepend() {
     fi
 }
 
-installStarship() {
-    if command_exists starship; then
-        echo "Starship already installed"
-        return
-    fi
-
-    if ! curl -sS https://starship.rs/install.sh | sh; then
-        echo -e "${RED}Something went wrong during starship install!${RC}"
-        exit 1
-    fi
-    if command_exists fzf; then
-        echo "Fzf already installed"
-    else
-        git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
-        ~/.fzf/install
-    fi
-}
 
 installZoxide() {
     if command_exists zoxide; then
@@ -183,7 +159,6 @@ linkConfig() {
 
 checkEnv
 installDepend
-installStarship
 installZoxide
 install_additional_dependencies
 
