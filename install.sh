@@ -27,6 +27,10 @@ cp sources.list /etc/apt/
 chmod +x chrome.sh
 ./chrome.sh
 
+
+chmod +x brave.sh
+./chrome.sh
+
 # Install HackNerdFont
 mkdir ~/.fonts
 cp Hack.zip ~/.fonts
