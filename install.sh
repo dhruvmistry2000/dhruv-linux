@@ -31,7 +31,3 @@ mkdir ~/.fonts
 cp Hack.zip ~/.fonts
 cd ~/.fonts
 unzip Hack.zip
-
-cd ~
-cd dhruv-linux
-mv starship.toml ~/.config/
