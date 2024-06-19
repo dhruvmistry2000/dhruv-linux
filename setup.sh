@@ -10,8 +10,6 @@ cp -r .config/* ~/.config/
 mkdir ~/wallpaper
 cp -r wallpaper ~/
 
-cp -r scripts ~/
-
 cd mybash
 ./setup.sh
 cd ..
