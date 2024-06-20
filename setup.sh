@@ -14,7 +14,7 @@ cd mybash
 ./setup.sh
 cd ..
 
-cp sources.list /etc/apt/
+sudo cp sources.list /etc/apt/
 
 chmod +x installs/chrome.sh
 ./installs/chrome.sh
