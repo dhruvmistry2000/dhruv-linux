@@ -1,6 +1,9 @@
 #!/bin/bash
 
-sudo apt install feh preload i3 rofi kitty polybar neofetch picom trash-cli
+sudo apt install feh preload i3 bat rofi kitty polybar neofetch picom trash-cli
+
+mkdir -p ~/.local/bin
+ln -s /usr/bin/batcat ~/.local/bin/bat
 
 sudo apt update 
 sudo apt upgrade
