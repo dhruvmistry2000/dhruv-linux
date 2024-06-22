@@ -17,7 +17,7 @@ checkEnv() {
         exit 1
     fi
 
-    ## Check Package Handeler
+    ## Check Package Handler
     PACKAGEMANAGER='apt yum dnf pacman zypper'
     for pgm in ${PACKAGEMANAGER}; do
         if command_exists ${pgm}; then
@@ -27,7 +27,7 @@ checkEnv() {
     done
 
     if [ -z "${PACKAGER}" ]; then
-        echo -e "${RED}Can't find a supported package manager"
+        echo -e "${RED}Can't find a supported package manager${RC}"
         exit 1
     fi
 
@@ -41,7 +41,7 @@ checkEnv() {
     ## Check SuperUser Group
     SUPERUSERGROUP='wheel sudo root'
     for sug in ${SUPERUSERGROUP}; do
-        if groups | grep ${sug}; then
+        if groups | grep ${sug} >/dev/null; then
             SUGROUP=${sug}
             echo -e "Super user group ${SUGROUP}"
         fi

@@ -13,8 +13,8 @@ cp -r .config/* ~/.config/
 mkdir ~/wallpaper
 cp -r wallpaper ~/
 
-cd mybash
-./setup.sh
+cd mybash || exit 1
+./setup.sh || exit 1
 cd ..
 
 sudo cp sources.list /etc/apt/
@@ -30,5 +30,5 @@ chmod +x installs/fastfetch.sh
 
 mkdir ~/.fonts
 cp Hack.zip ~/.fonts
-cd ~/.fonts
-unzip Hack.zip
+cd ~/.fonts || exit 1
+unzip Hack.zip || exit 1
