@@ -14,7 +14,6 @@ mkdir ~/wallpaper
 cp -r wallpaper ~/
 
 cd mybash || exit 1
-sudo chmod +x setup.sh
 ./setup.sh || exit 1
 cd ..
 
