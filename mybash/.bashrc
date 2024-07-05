@@ -114,6 +114,9 @@ alias vi='nvim'
 alias svi='sudo vi'
 alias vis='nvim "+set si"'
 
+# New aliases for updating and upgrading
+alias upd='sudo apt update'
+alias upg='sudo apt upgrade -y'
 
 # cd into the old directory
 alias bd='cd "$OLDPWD"'
@@ -171,7 +174,7 @@ alias rebootforce='sudo shutdown -r -n now'
 # Alias's to show disk space and space used in a folder
 alias diskspace="du -S | sort -n -r |more"
 alias folders='du -h --max-depth=1'
-alias folderssort='find . -maxdepth 1 -type d -print0 | xargs -0 du -sk | sort -rn'
+alias foldersort='find . -maxdepth 1 -type d -print0 | xargs -0 du -sk | sort -rn'
 alias tree='tree -CAhF --dirsfirst'
 alias treed='tree -CAFd'
 alias mountedinfo='df -hT'
@@ -192,8 +195,9 @@ alias sha1='openssl sha1'
 
 alias clickpaste='sleep 3; xdotool type "$(xclip -o -selection clipboard)"'
 
-eval "$(starship init bash)"
 
 # KITTY - alias to be able to use kitty features when connecting to remote servers(e.g use tmux on remote server)
 
 alias kssh="kitty +kitten ssh"
+
+eval "$(starship init bash)"
