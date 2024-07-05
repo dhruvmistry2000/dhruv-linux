@@ -8,7 +8,7 @@ ln -s /usr/bin/batcat ~/.local/bin/bat
 sudo apt update 
 sudo apt upgrade
 
-cp -r .config/* ~/.config/
+cp -r .config/ ~/.config/
 
 mkdir ~/wallpaper
 cp -r wallpaper ~/
@@ -32,3 +32,4 @@ mkdir ~/.fonts
 cp Hack.zip ~/.fonts
 cd ~/.fonts || exit 1
 unzip Hack.zip || exit 1
+fc-cache -f -v
