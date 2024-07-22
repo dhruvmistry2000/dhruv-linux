@@ -8,7 +8,7 @@ ln -s /usr/bin/batcat ~/.local/bin/bat
 sudo apt update 
 sudo apt upgrade
 
-cp -r .config/ ~/.config/
+cp -r .config/ /home/dhruv/.config/
 
 mkdir ~/wallpaper
 cp -r wallpaper ~/
